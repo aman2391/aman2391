@@ -1,3 +1,8 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+AmanRawat...;This+is+my+profile!&center=true&size=30">
+  </a>
+</h1>
 - 👋 Hi, I’m @aman2391
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
